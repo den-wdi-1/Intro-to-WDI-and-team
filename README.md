@@ -14,6 +14,14 @@ Parking is not easy around General Assembly and WeWork. The following options ar
 - There is also free parking across the highway, but long-term spots are, well, spotty.
 - We **highly** recommend downloading the SpotHero app.  It usually has a lot within 5-minutes walk of WeWork for $5-6 / day, but there are no guarantees.  You may end up spending as much as $10 / day.
 
+### Operating Hours for GA Students
+Time | Day
+---- | ---
+8:30a - 10:00p | Monday - Thursday
+8:30a - 6:00p | Friday 
+9:30 - 4:00p | Saturday
+Closed | Sunday 
+
 ### Using WeWork Space
 
 - There are a lot of businesses here at WeWork. Please be mindful of your neighbors, their space, and their things.
