@@ -1,5 +1,19 @@
 # Intro to WDI and Team
 
+## WeWork
+
+### WiFi
+
+Please use the WeWork Wifi network. The password is on the whiteboard.
+
+### Parking
+
+Parking is not easy around General Assembly and WeWork. The following options are available:
+- If you can take public transit, bike, or walk to work, it will lower your stress levels significantly, and probably save you some money.
+- If you are **really** lucky, there is free street parking on Platte Street. Go down 17th Street to Platte, and turn left.
+- There is also free parking across the highway, but long-term spots are, well, spotty.
+- We **highly** recommend downloading the SpotHero app.  It usually has a lot within 5-minutes walk of WeWork for $5-6 / day, but there are no guarantees.  You may end up spending as much as $10 / day.
+
 ### Using WeWork Space
 
 - There are a lot of businesses here at WeWork. Please be mindful of your neighbors, their space, and their things.
