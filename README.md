@@ -36,6 +36,17 @@ Closed | Sunday
 
 ## Getting to Know Your Fellow Developers and Consultants (60 min)
 
+### Team Name Choice
+
+ - Today, we will choose a Developer Team name.  Since we will be pretty nerdy the next three months (we probably were already), the Consultants have been brainstorming on three themes.
+ - Now, we will continue the brainstorming, and vote on our favorite name.
+ - Theme 1: Star Wars
+  - e.g. Jedi, Sith
+ - Theme 2: Lord of the Rings
+  - e.g. Rivendell, Mordor
+ - Theme 3: Game of Thrones
+  - e.g. Stark, Lannister, Winterfell
+
 ### Introductions
 
  - Consultants introductions
@@ -47,3 +58,4 @@ Closed | Sunday
  - Now get into groups of 4 (2 can turn around to face other 2).  See how many more you can get answered.  Take 5 minutes.
  - Now ask Professor Google.  See how many more you can get answered.  Take 2 minutes.
  - Let's talk about what we learned.  Any big takeaways?
+ 
