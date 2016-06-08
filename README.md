@@ -32,7 +32,7 @@ Closed | Sunday
 - Similarly, if you see any food on the kitchen/cafe tables, please ask the WeWork staff if you can have some.
 - You can use the fridge in the kitchen/cafe for drinks or food. Please put your name on anything, and the date you put it in. WeWork will clean the fridge every Friday at 3pm. Also, if you see unclaimed food or drink in the fridge, please ask the WeWork staff if you can have some.
 - If you are bringing guests to the space, please notify the front desk.
-- Unless there is a GA event, doors at WeWork close at 6pm. Developers are welcome to operating hours but if WeWork is closed be aware that you may be locked out if you leave.
+- Unless there is a GA event, doors at WeWork close at 6pm. Developers are welcome to stay during operating hours but if WeWork is closed be aware that you may be locked out if you leave.
 
 ## Getting to Know Your Fellow Developers and Consultants (60 min)
 
