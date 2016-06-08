@@ -1,6 +1,6 @@
 # Intro to WDI and Team
 
-## WeWork
+## WeWork (10 min)
 
 ### WiFi
 
@@ -34,6 +34,16 @@ Closed | Sunday
 - If you are bringing guests to the space, please notify the front desk.
 - Unless there is a GA event, doors at WeWork close at 6pm. Developers are welcome to stay until 9pm, but be aware that you will be locked out if you leave.
 
-## What to Expect in WDI
+## Getting to Know Your Fellow Developers and Consultants (60 min)
 
-## Getting to Know Your Fellow Developers
+### Introductions
+
+ - Consultants introductions
+ - Developers introductions
+ 
+### Trivial Pursuit
+
+ - This activity will require you to answer some really difficult questions.  See how many you can answer on your own. No cheating.  Laptops closed and phones away, please.  Take 5 minutes.
+ - Now get into groups of 4 (2 can turn around to face other 2).  See how many more you can get answered.  Take 5 minutes.
+ - Now ask Professor Google.  See how many more you can get answered.  Take 2 minutes.
+ - Let's talk about what we learned.  Any big takeaways?
