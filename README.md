@@ -59,3 +59,8 @@ Closed | Sunday
  - Now ask Professor Google.  See how many more you can get answered.  Take 2 minutes.
  - Let's talk about what we learned.  Any big takeaways?
  
+### One Cool Thing
+
+ - Throughout this first week, we are expecting you to learn one cool thing about one of your fellow Developers every day.  Since you already have a group to share with, share your one cool thing with the group.
+ - Now that we know some cool things about each other, tell the whole class one cool thing you learned about one of your group members.  No repeats, please.
+ - We have just done a "Whip-Around", which is another activity we will do a few times in this class.
