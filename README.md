@@ -64,3 +64,18 @@ Closed | Sunday
  - Throughout this first week, we are expecting you to learn one cool thing about one of your fellow Developers every day.  Since you already have a group to share with, share your one cool thing with the group.
  - Now that we know some cool things about each other, tell the whole class one cool thing you learned about one of your group members.  No repeats, please.
  - We have just done a "Whip-Around", which is another activity we will do a few times in this class.
+
+### Values
+
+ - One thing we want to agree on for this training cohort is a set of values.
+  - As an individual, take 5 minutes to choose 8 values from the list below that you think are most important.
+  - Now, take another couple minutes to choose the top 2 from that list.
+  - Send those two values to the #wdi-den-june channel.
+  - The Consultants will compile this into a value statement for the team this week.
+
+### Goals
+ - Another thing we want to establish are growth goals for each student.  Take the next 5 minutes to come up with:
+  - One personal project goal that you would like to see built or be able to build by the end of this training.
+  - One personal general goal that you would like to accomplish by the end of this training.
+  - Send those two goals to the #wdi-den-june channel.
+  - The Consultants will compile this into a goal list for the team this week, so that we can all help each other reach them by the end of the training.
