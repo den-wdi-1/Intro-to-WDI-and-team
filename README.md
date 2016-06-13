@@ -61,7 +61,7 @@ Closed | Sunday
 
 ### Values
 
- - One thing we want to agree on for this training cohort is a set of values.
+ - One thing we want to agree on for this training cohort is a set of [values](https://docs.google.com/a/generalassemb.ly/document/d/19HTNU4GXmpMxteoP7_rEpTKeczXnPYzwSt9XDdLFpF4/edit?usp=sharing).
   - As an individual, take 5 minutes to choose 8 values from the list below that you think are most important.
   - Now, take another couple minutes to choose the top 2 from that list.
   - Send those two values to the #wdi-den-june channel.
